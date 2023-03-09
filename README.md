@@ -1,3 +1,3 @@
 # dtmoney
 
-Front End Project to create a custom finantial planner using acessibility and good practices
+Front End Project to create a custom finantial management website using acessibility and good practices
